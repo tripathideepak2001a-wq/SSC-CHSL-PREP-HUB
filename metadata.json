@@ -1,0 +1,8 @@
+{
+  "name": "SSC CHSL Prep Hub",
+  "description": "Comprehensive SSC CHSL preparation platform with Previous Year Papers (PYQs), authentic TCS Mock Tests, ₹49 Exam-Ready Expected Question PDFs, Gmail & Mobile OTP login, bilingual questions, and detailed analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
